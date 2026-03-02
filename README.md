@@ -43,6 +43,8 @@ An interactive financial analytics dashboard exploring 13 million transactions a
 
 ## Running Locally
 
+Due to the size of the dataset (1.2GB), the dashboard is not hosted live. To run it locally:
+
 1. Clone the repository
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 3. Place the files in a `data/` folder in the repo root
