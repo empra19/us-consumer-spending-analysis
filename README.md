@@ -15,6 +15,12 @@ An interactive financial analytics dashboard exploring 13 million transactions a
 
 ---
 
+## Demo
+
+https://github.com/empra19/personal-finance-dashboard/dashboard_demo.mp4
+
+---
+
 ## Screenshots
 
 ![Spending Overview](screenshots/spending_overview.png)
@@ -46,7 +52,3 @@ An interactive financial analytics dashboard exploring 13 million transactions a
 6. Run `streamlit run app.py` to launch the dashboard
 
 ---
-
-## Demo
-
-*Video walkthrough coming soon*
