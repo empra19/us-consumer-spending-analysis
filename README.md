@@ -15,7 +15,7 @@ An interactive financial analytics dashboard exploring 13 million transactions a
 
 ---
 
-## Demo
+## Video Demo (YouTube)
 
 [![Dashboard Demo](screenshots/spending_overview.png)](https://youtu.be/0C8klqw779U)
 ---
