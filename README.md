@@ -17,8 +17,7 @@ An interactive financial analytics dashboard exploring 13 million transactions a
 
 ## Demo
 
-https://github.com/empra19/personal-finance-dashboard/raw/main/dashboard_demo.mp4
-
+<video controls src="dashboard_demo-1.mp4" title="Title"></video>
 ---
 
 ## Screenshots
