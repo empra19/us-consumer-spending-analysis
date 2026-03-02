@@ -65,7 +65,7 @@ fig_vol.update_layout(
 )
 st.plotly_chart(fig_vol, width='stretch')
 
-st.subheader('Top 10 Categories by Average Transaction Size')
+st.subheader('Top 10 Categories by Average Transaction Value')
 fig_avg = px.bar(
     df_avg, x='avg_transaction', y='description',
     orientation='h',
